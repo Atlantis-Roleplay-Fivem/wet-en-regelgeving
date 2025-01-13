@@ -2,7 +2,7 @@
 
 ## Wetstechnische informatie
 
-### Wet van 1 januari 2025
+### Wet van 13 januari 2025
 
 Wij, het bestuur van Atlantis.
 
