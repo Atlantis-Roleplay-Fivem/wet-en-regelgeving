@@ -5,6 +5,7 @@ copyright: Copyright &copy; 2024-2025 Atlantis Roleplay
 theme:
   name: material
   logo: assets/logo.png
+  favicon: assets/favicon.ico
 #   features:
 #     - navigation.tabs
   palette:
