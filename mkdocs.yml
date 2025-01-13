@@ -4,7 +4,7 @@ site_author: 'Atlantis Roleplay'
 copyright: Copyright &copy; 2024-2025 Atlantis Roleplay
 theme:
   name: material
-logo: assets/logo.png
+  logo: assets/logo.png
 #   features:
 #     - navigation.tabs
   palette:
