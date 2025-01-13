@@ -4,13 +4,12 @@
 
 ### Wet van 29 november 2024
 
-Wij, de Hoge Raad der Atlantis, bij de gratie Gods, enz., enz., enz.
+Wij, het bestuur van Atlantis.
 
-Allen die deze zullen zien of horen lezen, salut! doen te weten:
+Iedereen die inwoner is van Atlantis moet het volgende weten:
 
 Aangezien wij in overweging hebben genomen dat het noodzakelijk is een nieuwe **Algemene Plaatselijke Verordening Atlantis (APV)** vast te stellen:
 
-**Zo is het dat wij, de staff der Atlantis, gehoord en met gemeen overleg van de Hoge Raad, hebben goedgevonden en verstaan, gelijk wij goedvinden en verstaan bij deze, vast te stellen de navolgende bepalingen, welke zullen uitmaken de Algemene Plaatselijke Verordening Atlantis.**
 
 | **Kenmerk**                | **Details**                          |
 |----------------------------|--------------------------------------|
