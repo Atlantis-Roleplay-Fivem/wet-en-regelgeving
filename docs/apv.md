@@ -16,7 +16,7 @@ Aangezien wij in overweging hebben genomen dat het noodzakelijk is een nieuwe **
 | Overheidsorganisatie       | Staff van Atlantis                |
 | Officiële naam regeling    | Algemene Plaatselijke Verordening Atlantis |
 | Citeertitel                | Algemene Plaatselijke Verordening Atlantis |
-| Vastgesteld door           | De Hoge Raad                        |
+| Vastgesteld door           | Beheer van Atlantis                     |
 | Onderwerp                  | Openbare orde en veiligheid         |
 
 ---
