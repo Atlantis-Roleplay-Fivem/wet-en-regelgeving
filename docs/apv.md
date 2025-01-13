@@ -589,4 +589,4 @@ Het doel van deze samenwerking is [korte omschrijving van de samenwerking].
 ```
 
 ---
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Atlantis”, opgetekend door Ranqaholic, te Atlantis.
+APV opgesteld uit naam van Beheer van Atlantis, bedoeld voor het eiland, de gemeente en de stad “Atlantis”, opgetekend door Ranqaholic, te Atlantis.
