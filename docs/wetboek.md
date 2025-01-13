@@ -14,9 +14,9 @@
 
 ### A1 - Reikwijdte
 
-1. Het Wetboek Atlantis (verder aangeduid als WTDA) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
-2. Het WTDA heeft betrekking op het vaste land, de gemeente, en de stad Atlantis.
-3. Het WTDA is nauw verweven met de Algemene Plaatselijke Verordening Atlantis (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+1. Het Wetboek Atlantis (verder aangeduid als WARP) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
+2. Het WARP heeft betrekking op het vaste land, de gemeente, en de stad Atlantis.
+3. Het WARP is nauw verweven met de Algemene Plaatselijke Verordening Atlantis (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
 
