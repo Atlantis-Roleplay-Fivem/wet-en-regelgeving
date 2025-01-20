@@ -464,9 +464,9 @@ Mocht het slachtoffer een vuurwapen hebben, dan is medewerking niet verplicht.
 
 ---
 
-## **Narcopolis**
+## **Eiland**
 
-Onderstaande regels zijn er alleen op Narcopolis
+Onderstaande regels zijn er alleen op Eiland
 
 ### **Artikel N-1 - Schieten vanaf het vasteland en water**
 
@@ -489,7 +489,7 @@ Onderstaande regels zijn er alleen op Narcopolis
 
 ### **Artikel N-3 - Samenwerking criminele organisaties**
 
-1. Op Narcopolis is het voor een officiële groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
+1. Op Eiland is het voor een officiële groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
 2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
 
 → **Sanctie:** categorie 1.
