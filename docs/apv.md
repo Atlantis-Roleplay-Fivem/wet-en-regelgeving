@@ -136,6 +136,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 ### **Artikel 7 - No Value of Life (NVOL)**
 
 1. Het is niet toegestaan geen waarde te hechten aan het leven van het karakter dat je speelt. Dit omvat onder andere:
+    * Wegrennen wanneer iemand een pistool op je richt.
     * Wegrijden met een voertuig met een snelheid van minder dan 30 km/u in een levensbedreigende situatie.
     * Wegrennen van een bomvest welke binnen armlengte van jou staat en jijzelf geen wapen in de handen hebt.
 
