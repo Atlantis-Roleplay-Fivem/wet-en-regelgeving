@@ -547,6 +547,7 @@ Het overtreden van de onderstaande regels zullen resulteren in sancties voor de 
 
 * Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch)
 * Geen VDM (Vehicle deathmatch, je wagen als wapen gebruiken).
+* Wanneer je bent geranimeerd door een ambulancebroeder dien je het scenario te verlaten.
 * Geen RDM (Random deathmatch, zonder goede reden mensen of dieren dood slaan en/of schieten).
 * Geen Cheats (Uiteraard is het niet toegestaan om cheats te gebruiken om jezelf een voordeel te geven en dit zal dan ook resulteren is een regelrechte ban)
 * Geen Exploits (Bugs / Misstanden misbruiken om hier zelf en/of voor andere profijt uit te halen).
