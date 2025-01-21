@@ -489,7 +489,7 @@ Onderstaande regels zijn er alleen op Eiland
 
 ### **Artikel N-3 - Samenwerking criminele organisaties**
 
-1. Op Eiland is het voor een officiële groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
+1. Op het Vasteland & Eiland is het voor een officiële groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
 2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
 
 → **Sanctie:** categorie 1.
@@ -522,6 +522,7 @@ Het overtreden van de onderstaande regels zullen resulteren in sancties voor de 
 5. Het in beslag nemen van voertuigen voor unofficials is toegestaan maar indien dit gebeurd ben jij direct verantwoordelijk voor de RP. (dit houdt in dat jij zelf moet deelnemen aan de RP door mee te doen aan onderhandelingen en het eventueel teruggeven van het voertuig)
 6. Het in beslag nemen van een voertuig door een officiële gang hoort met goede of langdurige roleplay te gebeuren, en niet met de intentie om geld te verdienen.
 7. Het is niet toegestaan om een voertuig in beslag te nemen van iemand die overleden is in het scenario.
+8. Een Gang mag maximaal bestaan uit 5 leden.
 
 → **Sanctie:** Sanctie door CA, mogelijk opschorting van de organisatie.
 
