@@ -4,95 +4,101 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 
 ## Verkeers misdrijf
 
-|Feit|Boete bedrag|
+# Verkeersmisdrijven - Realistische Boetes Atlantis Roleplay
+
+| Feit | Boete bedrag |
 |:---|:----:|
-| Rijden met rijontzegging 1e keer | € 4000,- |
-| Zonder rijbewijs rijden | € 4000,- |
-| Zonder rijbewijs rijden 2e keer | € 8000,- |
-| Binnen bebouwde kom < 10 KM/H te hard | € 100,- |
-| Binnen bebouwde kom 10-20 KM/H te hard | € 400,- |
-| Binnen bebouwde kom 20-30 KM/H te hard | € 1000,- |
-| Binnen bebouwde kom 30-40 KM/H te hard | € 2000,- |
-| Binnen bebouwde kom 40-50 KM/H te hard | € 3000,- |
-| Binnen bebouwde kom 50-60 KM/H te hard | € 4000,- |
-| Binnen bebouwde kom 60-70 KM/H te hard | € 5000,- |
-| Binnen bebouwde kom 70-80 KM/H te hard | € 6000,- |
-| Binnen bebouwde kom 80-90 KM/H te hard | € 7000,- |
-| Binnen bebouwde kom 90-100 KM/H te hard | € 8000,- |
-| Binnen bebouwde kom 100-125 KM/H te hard | € 10000,- |
-| Binnen bebouwde kom 125-150 KM/H te hard | € 12500,- |
-| Binnen bebouwde kom 150+ KM/H te hard | € 15000,- |
-| Buiten bebouwde kom < 10 KM/H te hard | € 100,- |
-| Buiten bebouwde kom 10-20 KM/H te hard | € 300,- |
-| Buiten bebouwde kom 20-30 KM/H te hard | € 700,- |
-| Buiten bebouwde kom 30-40 KM/H te hard | € 1000,- |
-| Buiten bebouwde kom 40-50 KM/H te hard | € 1500,- |
-| Buiten bebouwde kom 50-60 KM/H te hard | € 2000,- |
-| Buiten bebouwde kom 60-70 KM/H te hard | € 2500,- |
-| Buiten bebouwde kom 70-80 KM/H te hard | € 3000,- |
-| Buiten bebouwde kom 80-90 KM/H te hard | € 3500,- |
-| Buiten bebouwde kom 90-100 KM/H te hard | € 4000,- |
-| Buiten bebouwde kom 100-125 KM/H te hard | € 5000,- |
-| Buiten bebouwde kom 125-150 KM/H te hard | € 7000,- |
-| Buiten bebouwde kom 150-175 KM/H te hard | € 9000,- |
-| Buiten bebouwde kom 175-200 KM/H te hard | € 11000,- |
+| Rijden met rijontzegging 1e keer | € 2700,- |
+| Zonder rijbewijs rijden | € 340,- |
+| Zonder rijbewijs rijden 2e keer | € 700,- |
+| Binnen bebouwde kom < 10 KM/H te hard | € 50,- |
+| Binnen bebouwde kom 10-20 KM/H te hard | € 200,- |
+| Binnen bebouwde kom 20-30 KM/H te hard | € 400,- |
+| Binnen bebouwde kom 30-40 KM/H te hard | € 600,- |
+| Binnen bebouwde kom 40-50 KM/H te hard | € 800,- |
+| Binnen bebouwde kom 50-60 KM/H te hard | € 1000,- |
+| Binnen bebouwde kom 60-70 KM/H te hard | € 1200,- |
+| Binnen bebouwde kom 70-80 KM/H te hard | € 1500,- |
+| Binnen bebouwde kom 80-90 KM/H te hard | € 1800,- |
+| Binnen bebouwde kom 90-100 KM/H te hard | € 2100,- |
+| Binnen bebouwde kom 100-125 KM/H te hard | € 3000,- |
+| Binnen bebouwde kom 125-150 KM/H te hard | € 5000,- |
+| Binnen bebouwde kom 150+ KM/H te hard | € 7500,- |
+| Buiten bebouwde kom < 10 KM/H te hard | € 40,- |
+| Buiten bebouwde kom 10-20 KM/H te hard | € 150,- |
+| Buiten bebouwde kom 20-30 KM/H te hard | € 350,- |
+| Buiten bebouwde kom 30-40 KM/H te hard | € 500,- |
+| Buiten bebouwde kom 40-50 KM/H te hard | € 750,- |
+| Buiten bebouwde kom 50-60 KM/H te hard | € 1000,- |
+| Buiten bebouwde kom 60-70 KM/H te hard | € 1500,- |
+| Buiten bebouwde kom 70-80 KM/H te hard | € 2000,- |
+| Buiten bebouwde kom 80-90 KM/H te hard | € 2500,- |
+| Buiten bebouwde kom 90-100 KM/H te hard | € 3000,- |
+| Buiten bebouwde kom 100-125 KM/H te hard | € 4000,- |
+| Buiten bebouwde kom 125-150 KM/H te hard | € 6000,- |
+| Buiten bebouwde kom 150-175 KM/H te hard | € 8000,- |
+| Buiten bebouwde kom 175-200 KM/H te hard | € 10000,- |
 | Buiten bebouwde kom 200+ KM/H te hard | € 15000,- |
-| Door rood licht rijden met een fiets | € 150,- |
-| Door rood licht rijden met een bromfiets | € 1250,- |
-| Door rood licht rijden | € 1750,- |
-| Verkeerde voertuig informatie doorgeven | € 270,- |
-| Onnodig claxoneren | € 1000,- |
-| Joyriding | € 1700,- |
-| Rijden onder invloed | € 4000,- |
-| Illegaal off road rijden | € 2500,- |
-| Door rijden bij een stop bord | € 950,- |
-| Illegaal inhalen over een vluchtstrook | € 1140,- |
-| U-turn | € 950,- |
-| Over een doorgetrokken streep rijden | € 850,- |
-| Onnodig linksrijden | € 420,- |
-| Spookrijden | € 1860,- |
-| Stil staan met je auto waar dat niet mag | € 3000,- |
-| Hinder zonder ongeval | € 3000,- |
-| Verkeersongeval met licht lichamelijk letsel | € 4000,- |
-| Verkeersongeval met zwaar lichamelijk letsel | € 10000,- |
-| Dodelijk verkeersongeval | € 16000,- |
-| Doorrijden na een ongeluk | € 15000,- |
-| Verboden voertuig openbare weg | € 3300,- |
-| Negeren van stopteken | € 3600,- |
-| Fout parkeren | € 1750,- |
-| Roekeloos Rijgedrag | € 3000,- |
-| Weg blokkeren | € 1500,- |
-| Verkeersovertreding niet nader gespecificeerd | € 430,- |
-| Rijden zonder kentekenplaten | € 10000,- |
-| Geblindeerde ramen | € 7500,- |
-| Verlichting(NEON) onder het voertuig | € 2500 |
-| Opzettelijk veroorzaken van ernstig gevaar of hinder - eerste veroordeling | € 3000,- |
-| Opzettelijk veroorzaken van ernstig gevaar of hinder - tweede veroordeling | € 7500,- |
-| Opzettelijk veroorzaken van ernstig gevaar of hinder - derde veroordeling | € 10500,- |
-| Rijden met koplampen met een andere lichtkleur dan wit of geel | € 5000,- |
+| Door rood licht rijden met een fiets | € 100,- |
+| Door rood licht rijden met een bromfiets | € 250,- |
+| Door rood licht rijden | € 300,- |
+| Verkeerde voertuig informatie doorgeven | € 150,- |
+| Onnodig claxoneren | € 250,- |
+| Joyriding | € 1500,- |
+| Rijden onder invloed | € 1000,- |
+| Illegaal off-road rijden | € 250,- |
+| Door rijden bij een stopbord | € 250,- |
+| Illegaal inhalen over een vluchtstrook | € 400,- |
+| U-turn waar dat niet mag | € 250,- |
+| Over een doorgetrokken streep rijden | € 250,- |
+| Onnodig linksrijden | € 150,- |
+| Spookrijden | € 1500,- |
+| Stil staan met je auto waar dat niet mag | € 200,- |
+| Hinder zonder ongeval | € 300,- |
+| Verkeersongeval met licht lichamelijk letsel | € 2000,- |
+| Verkeersongeval met zwaar lichamelijk letsel | € 5000,- |
+| Dodelijk verkeersongeval | € 10000,- |
+| Doorrijden na een ongeluk | € 7500,- |
+| Verboden voertuig op de openbare weg | € 500,- |
+| Negeren van een stopteken | € 1500,- |
+| Fout parkeren | € 150,- |
+| Roekeloos rijgedrag | € 2500,- |
+| Weg blokkeren | € 500,- |
+| Verkeersovertreding niet nader gespecificeerd | € 250,- |
+| Rijden zonder kentekenplaten | € 1500,- |
+| Geblindeerde ramen zonder keuring | € 750,- |
+| Neon verlichting onder het voertuig | € 500,- |
+| Opzettelijk gevaar veroorzaken - eerste veroordeling | € 1500,- |
+| Opzettelijk gevaar veroorzaken - tweede veroordeling | € 3000,- |
+| Opzettelijk gevaar veroorzaken - derde veroordeling | € 5000,- |
+| Rijden met koplampen met een andere lichtkleur dan wit of geel | € 500,- |
+
 
 ## Klein misdrijf
 
-|Feit|Boete bedrag|
+## Klein Misdrijf - Realistische Boetes
+
+| Feit | Boetebedrag |
 |:---|:---:|
-| Openbare dronkenschap | € 120,- |
-| Rechtsdoorgang beletten | € 130,- |
-| Onbevoegd begeven op privé terrein | € 180,- |
-| Dragen van gezichtsbedekkende kledij | € 200,- |
-| Beledigen van een ambtenaar in functie | € 1600,- |
-| Verstoring Openbare orde | € 220,- |
-| Valse informatie geven | € 250,- |
-| Valse melding | € 450,- |
-| In het bezit zijn van inbrekers gereedschap | € 2500,- |
-| Poging tot diefstal | € 1400,- |
-| Diefstal | € 2000,- |
-| Poging tot omkopen | € 1500,- |
-| Rijden met rijontzegging 2e keer | € 4000,- |
-| Rijden met rijontzegging 3e keer | € 6000,- |
-| Vernieling Eerste Veroordeling | € 3000,- |
-| Lokaalvredebreuk eerste veroordeling | € 1500,- |
-| Lokaalvredebreuk tweede veroordeling | € 2000,- |
-| Lokaalvredebreuk derde veroordeling | € 3000,- |
+| Openbare dronkenschap | € 100,- |
+| Rechtsdoorgang beletten | € 150,- |
+| Onbevoegd begeven op privéterrein | € 95,- (bij herhaling tot € 250,-) |
+| Dragen van gezichtsbedekkende kledij | € 150,- |
+| Beledigen van een ambtenaar in functie | € 500,- tot € 900,- (afhankelijk van ernst) |
+| Verstoring openbare orde | € 280,- |
+| Valse informatie geven | € 390,- |
+| Valse melding | € 300,- tot € 600,- (afhankelijk van impact) |
+| In het bezit zijn van inbrekersgereedschap | € 1250,- tot € 2500,- (kan leiden tot celstraf) |
+| Poging tot diefstal | € 900,- tot € 1400,- |
+| Diefstal | € 2000,- (bij kleine waarde) tot € 5000,- (bij grotere waarde) |
+| Poging tot omkopen | € 1500,- tot € 2500,- |
+| Rijden met rijontzegging 2e keer | € 2500,- |
+| Rijden met rijontzegging 3e keer | € 4500,- |
+| Vernieling eerste veroordeling | € 1000,- tot € 2500,- (afhankelijk van schade) |
+| Lokaalvredebreuk eerste veroordeling | € 500,- tot € 1000,- |
+| Lokaalvredebreuk tweede veroordeling | € 1500,- |
+| Lokaalvredebreuk derde veroordeling | € 2000,- tot € 3000,- |
+
 
 ## Middelmatig misdrijf
 
