@@ -102,83 +102,89 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 
 ## Middelmatig misdrijf
 
-|Feit|Boete bedrag|
+## Ernstige Misdrijven - Realistische Boetes
+
+| Feit | Boetebedrag |
 |:---|:---:|
-| Bedreiging | € 3000,- |
-| Bedreiging overheidsmedewerker | € 4000,- |
-| Afpersing / Chantage | € 7500,- |
-| Verduistering | € 5000,- |
-| Fraude / Heling | € 2000,- |
-| Buiten dienst wapen dragen | € 10000,- |
-| Een auto stelen | € 5600,- |
-| Identiteitsfraude | € 2000,- |
-| Ontvoering/gijzeling van een burger | € 10000,- |
-| Ontvoering van een overheidsmedewerker | € 13000,- |
-| In het bezit zijn van een illegaal vuurwapen Cat. 1 | € 10000,- |
-| In het bezit zijn van een illegaal vuurwapen Cat. 2 | € 20000,- |
-| In het bezit zijn van een nepwapen of holster | € 5000,- |
-| In het bezit zijn van taser | € 5000,- |
-| In het bezit zijn van een slag/steekwapen | € 5000,- |
-| Deelname aan een criminele organisatie | € 3000,- |
-| Huisvredebreuk eerste veroordeling | € 2000,- |
-| Huisvredebreuk tweede veroordeling | € 4000,- |
-| Huisvredebreuk derde veroordeling | € 6000,- |
-| Diefstal eerste veroordeling | € 2000,- |
-| Diefstal tweede veroordeling | € 4000,- |
-| Diefstal derde veroordeling | € 6000,- |
-| Gekwalificeerde Diefstal eerste veroordeling | € 10000,- |
-| Gekwalificeerde Diefstal tweede veroordeling | € 12500,- |
-| Gekwalificeerde Diefstal derde veroordeling | € 15000,- |
-| Diefstal met geweld eerste veroordeling | € 2000,- |
-| Diefstal met geweld tweede verroordeling | € 4000,- |
-| Diefstal met geweld derde veroordeling | € 6000,- |
-| Jacht op, verkoop of in kofferbak hebben van 1-5 bedreigde diersoorten - eerste veroordeling| € 5000,- |
-| Jacht op, verkoop of in kofferbak hebben van 1-5 bedreigde diersoorten - tweede veroordeling| € 8500,- |
-| Jacht op, verkoop of in kofferbak hebben van 1-5 bedreigde diersoorten - meerdere veroordelingen | € 10000,- |
-| Jacht op, verkoop of in kofferbak hebben van 6-40 bedreigde diersoorten - eerste veroordeling| € 7500,- |
-| Jacht op, verkoop of in kofferbak hebben van 6-40 bedreigde diersoorten - tweede veroordeling| € 12500,- |
-| Jacht op, verkoop of in kofferbak hebben van 6-40 bedreigde diersoorten - meerdere veroordelingen | € 15000,- |
-| Jacht op, verkoop of in kofferbak hebben van >40 bedreigde diersoorten - eerste veroordeling| € 10000,- |
-| Jacht op, verkoop of in kofferbak hebben van >40 bedreigde diersoorten - tweede veroordeling| € 15000,- |
-| Jacht op, verkoop of in kofferbak hebben van >40 bedreigde diersoorten - meerdere veroordelingen | € 20000,- |
-| vergunningloos voertuig handelen eerste veroordeling | € 50000,- |
-| vergunningloos voertuig handelen tweede veroordeling | € 75000,- |
-| vergunningloos voertuig derde veroordeling | € 100000,- |
-| Misdrijven tegen de openbare orde eerste Veroordeling | € 2500,-  |
-| Misdrijven tegen de openbare orde tweede Veroordeling | € 5000,-  |
-| Misdrijven tegen de openbare orde meerdere Veroordelingen | € 10000,-  |
+| Bedreiging | € 2500,- tot € 5000,- (afhankelijk van ernst) |
+| Bedreiging overheidsmedewerker | € 4000,- tot € 6000,- |
+| Afpersing / Chantage | € 5000,- tot € 10000,- |
+| Verduistering | € 4000,- tot € 8000,- |
+| Fraude / Heling | € 2500,- tot € 5000,- |
+| Buiten dienst wapen dragen | € 7500,- tot € 12500,- |
+| Een auto stelen | € 5000,- tot € 7000,- |
+| Identiteitsfraude | € 3000,- tot € 7000,- |
+| Ontvoering/gijzeling van een burger | € 7500,- tot € 12500,- |
+| Ontvoering van een overheidsmedewerker | € 10000,- tot € 15000,- |
+| In het bezit zijn van een illegaal vuurwapen Cat. 1 | € 7500,- tot € 12000,- |
+| In het bezit zijn van een illegaal vuurwapen Cat. 2 | € 15000,- tot € 25000,- |
+| In het bezit zijn van een nepwapen of holster | € 3000,- tot € 6000,- |
+| In het bezit zijn van een taser | € 4000,- tot € 7500,- |
+| In het bezit zijn van een slag/steekwapen | € 4000,- tot € 7000,- |
+| Deelname aan een criminele organisatie | € 5000,- tot € 10000,- |
+| Huisvredebreuk eerste veroordeling | € 1000,- tot € 3000,- |
+| Huisvredebreuk tweede veroordeling | € 3000,- tot € 5000,- |
+| Huisvredebreuk derde veroordeling | € 5000,- tot € 7000,- |
+| Diefstal eerste veroordeling | € 1500,- tot € 4000,- |
+| Diefstal tweede veroordeling | € 3000,- tot € 6000,- |
+| Diefstal derde veroordeling | € 5000,- tot € 8000,- |
+| Gekwalificeerde diefstal eerste veroordeling | € 8000,- tot € 12000,- |
+| Gekwalificeerde diefstal tweede veroordeling | € 10000,- tot € 15000,- |
+| Gekwalificeerde diefstal derde veroordeling | € 12000,- tot € 18000,- |
+| Diefstal met geweld eerste veroordeling | € 3000,- tot € 7000,- |
+| Diefstal met geweld tweede veroordeling | € 5000,- tot € 9000,- |
+| Diefstal met geweld derde veroordeling | € 7000,- tot € 12000,- |
+| Jacht op, verkoop of bezit van 1-5 bedreigde diersoorten - eerste veroordeling | € 3000,- tot € 6000,- |
+| Jacht op, verkoop of bezit van 1-5 bedreigde diersoorten - tweede veroordeling | € 6000,- tot € 10000,- |
+| Jacht op, verkoop of bezit van 1-5 bedreigde diersoorten - meerdere veroordelingen | € 9000,- tot € 12000,- |
+| Jacht op, verkoop of bezit van 6-40 bedreigde diersoorten - eerste veroordeling | € 6000,- tot € 9000,- |
+| Jacht op, verkoop of bezit van 6-40 bedreigde diersoorten - tweede veroordeling | € 10000,- tot € 14000,- |
+| Jacht op, verkoop of bezit van 6-40 bedreigde diersoorten - meerdere veroordelingen | € 14000,- tot € 18000,- |
+| Jacht op, verkoop of bezit van >40 bedreigde diersoorten - eerste veroordeling | € 10000,- tot € 15000,- |
+| Jacht op, verkoop of bezit van >40 bedreigde diersoorten - tweede veroordeling | € 15000,- tot € 20000,- |
+| Jacht op, verkoop of bezit van >40 bedreigde diersoorten - meerdere veroordelingen | € 20000,- tot € 30000,- |
+| Vergunningloos voertuig handelen eerste veroordeling | € 20000,- tot € 50000,- |
+| Vergunningloos voertuig handelen tweede veroordeling | € 50000,- tot € 75000,- |
+| Vergunningloos voertuig handelen derde veroordeling | € 75000,- tot € 100000,- |
+| Misdrijven tegen de openbare orde eerste veroordeling | € 2000,- tot € 4000,- |
+| Misdrijven tegen de openbare orde tweede veroordeling | € 4000,- tot € 7000,- |
+| Misdrijven tegen de openbare orde meerdere veroordelingen | € 7000,- tot € 12000,- |
+
 
 ## Grootmisdrijf
 
-|Feit|Boete bedrag|
+## Gewelds- en Zware Misdrijven - Realistische Boetes
+
+| Feit | Boetebedrag |
 |:--|:---:|
-| Eenvoudige mishandeling | € 5000,- |
-| Zware mishandeling | € 10000,- |
-| Eenvoudige mishandeling overheidsmedewerker | € 6600,- |
-| Zware mishandeling overheidsmedewerker | € 13300,- |
-| Dood door schuld eerste veroordeling | € 10000,- |
-| Dood door schuld tweede veroordeling | € 15000,- |
-| Dood door schuld derde veroordeling | € 20000,- |
-| Poging tot doodslag | € 10000,- |
-| Poging tot doodslag overheidsmedewerker | € 13300,- |
-| Doodslag | € 15000,- |
-| Doodslag overheidsmedewerker | € 20000,- |
-| Poging tot moord | € 14400,- |
-| Poging tot moord op een overheidsmedewerker | € 19150,- |
-| Moord | € 20000,- |
-| Moord op een overheidsmedewerker | € 26600,- |
-| Gekwalifiseerde diefstal eerste veroordeling | € 15000,- |
-| Gekwalifiseerde diefstal tweede veroordeling | € 17500,- |
-| Gekwalifiseerde diefstal derde veroordeling | € 25000,- |
-| Terroristisch misdrijf eerste veroordeling | € 30000,- |
-| Terroristisch misdrijf tweede veroordeling | € 37500,- |
-| Terroristisch misdrijf derde veroordeling | € 45000,- |
-| Overval | € 20000,- |
-| Witwassen | € 15000,- |
-| Betreden van verboden militair domein eerste veroordeling | € 10000,- |
-| Betreden van verboden militair domein tweede veroordeling | € 15000,- |
-| Betreden van verboden militair domein derde veroordeling | € 20000,- |
-| Zonder Vliegbrevet vliegen | € 75000,- |
+| Eenvoudige mishandeling | € 3000,- tot € 7000,- |
+| Zware mishandeling | € 8000,- tot € 12000,- |
+| Eenvoudige mishandeling overheidsmedewerker | € 5000,- tot € 8000,- |
+| Zware mishandeling overheidsmedewerker | € 10000,- tot € 15000,- |
+| Dood door schuld eerste veroordeling | € 8000,- tot € 12000,- |
+| Dood door schuld tweede veroordeling | € 12000,- tot € 16000,- |
+| Dood door schuld derde veroordeling | € 16000,- tot € 20000,- |
+| Poging tot doodslag | € 10000,- tot € 15000,- |
+| Poging tot doodslag overheidsmedewerker | € 13000,- tot € 18000,- |
+| Doodslag | € 12000,- tot € 18000,- |
+| Doodslag overheidsmedewerker | € 18000,- tot € 25000,- |
+| Poging tot moord | € 14000,- tot € 18000,- |
+| Poging tot moord op een overheidsmedewerker | € 18000,- tot € 22000,- |
+| Moord | € 18000,- tot € 25000,- |
+| Moord op een overheidsmedewerker | € 25000,- tot € 30000,- |
+| Gekwalificeerde diefstal eerste veroordeling | € 10000,- tot € 15000,- |
+| Gekwalificeerde diefstal tweede veroordeling | € 15000,- tot € 20000,- |
+| Gekwalificeerde diefstal derde veroordeling | € 20000,- tot € 25000,- |
+| Terroristisch misdrijf eerste veroordeling | € 25000,- tot € 35000,- |
+| Terroristisch misdrijf tweede veroordeling | € 35000,- tot € 45000,- |
+| Terroristisch misdrijf derde veroordeling | € 45000,- tot € 55000,- |
+| Overval | € 15000,- tot € 25000,- |
+| Witwassen | € 12000,- tot € 20000,- |
+| Betreden van verboden militair domein eerste veroordeling | € 7000,- tot € 12000,- |
+| Betreden van verboden militair domein tweede veroordeling | € 12000,- tot € 17000,- |
+| Betreden van verboden militair domein derde veroordeling | € 17000,- tot € 22000,- |
+| Zonder vliegbrevet vliegen | € 50000,- tot € 100000,- |
+
 
 !!! attention "LET OP"
     De prijzen kunnen ten alle tijden worden worden gewijzigd
