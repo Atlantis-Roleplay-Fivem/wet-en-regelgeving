@@ -4,7 +4,7 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 
 ## Verkeers misdrijf
 
-# Verkeersmisdrijven - Realistische Boetes Atlantis Roleplay
+# Verkeersmisdrijven - Realistische Boetes Legacy Roleplay
 
 | Feit | Boete bedrag |
 |:---|:----:|
@@ -190,4 +190,4 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
     De prijzen kunnen ten alle tijden worden worden gewijzigd
 
 !!! attention "LET OP"
-    De prijzen kunnen achterlopen met wat er in het wetboek staat beschreven. Kijk voor de actuele prijzen [hier](https://wetboek.Atlantis.nl/wetboek/)
+    De prijzen kunnen achterlopen met wat er in het wetboek staat beschreven. Kijk voor de actuele prijzen [hier](https://wetboek.Legacy Roleplay.nl/wetboek/)

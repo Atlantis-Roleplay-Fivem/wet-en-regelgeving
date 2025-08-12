@@ -1,28 +1,28 @@
-# Wetboek Atlantis
+# Wetboek Legacy Roleplay
 
 ## Wetstechnische informatie
 
 | | |
 |---|---|
-| Overheidsorganisatie      | Hoge Raad Atlantis |
-| Officiële naam            | Algemeen Wetboek Atlantis |
-| Citeertitel               | Wetboek Atlantis |
-| Vastgesteld door          | Beheer van Atlantis|
+| Overheidsorganisatie      | Hoge Raad Legacy Roleplay |
+| Officiële naam            | Algemeen Wetboek Legacy Roleplay |
+| Citeertitel               | Wetboek Legacy Roleplay |
+| Vastgesteld door          | Beheer van Legacy Roleplay|
 | Onderwerp                 | Openbare orde en veiligheid |
 
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
 
-1. Het Wetboek Atlantis (verder aangeduid als WARP) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
-2. Het WARP heeft betrekking op het vaste land, de gemeente, en de stad Atlantis.
-3. Het WARP is nauw verweven met de Algemene Plaatselijke Verordening Atlantis (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+1. Het Wetboek Legacy Roleplay (verder aangeduid als WARP) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
+2. Het WARP heeft betrekking op het vaste land, de gemeente, en de stad Legacy Roleplay.
+3. Het WARP is nauw verweven met de Algemene Plaatselijke Verordening Legacy Roleplay (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
 
 1. Bij verandering van een wetgeving na het tijdstip waarop het feit begaan is, wordt voor de verdachte de meest gunstigste bepalingen toegepast.
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
-3. Minderjarigen worden binnen Atlantis op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Atlantis niet van toepassing.
+3. Minderjarigen worden binnen Legacy Roleplay op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Legacy Roleplay niet van toepassing.
 
 ### A3 - Verjaring van het strafbaar feit
 
@@ -87,7 +87,7 @@
     8. Er kan alleen in beroep gegaan worden tegen een inbeslagname door middel van een advocaat. Het voertuig kan er alleen uitgehaald worden als er een advocaat betrokken is, of d.m.v. het klachtenformulier.
     9. Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig voor de vierde keer in beslag wordt genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie of koninklijke marechaussee.
 3. Geldige redenen voor inbeslagname zijn:
-    1. Plegen van een strafbaar feit uit het wetboek van Atlantis waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding met uitzondering zoals beschreven in lid E van dit artikel;
+    1. Plegen van een strafbaar feit uit het wetboek van Legacy Roleplay waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding met uitzondering zoals beschreven in lid E van dit artikel;
     2. Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;
     3. Niet stoppen voor stopteken gegeven door middel van een politietransparant of rode lamp;
     4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar of lid van de Koninklijke Luchtmacht;
@@ -1330,4 +1330,4 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 8. Indien er een afspraak gemaakt word in de zaak om geen bewijsstukken meer toe te voegen mag dit ook niet. Word dit wel gedaan mag dit gezien worden als een vormfout. Je hebt namelijk 24 uur de tijd om bewijs te verzamelen.
 
 ---------------------
-*Wetboek Atlantis is opgesteld uit naam van Beheer van Atlantis, bedoeld voor de gemeente en de stad “Atlantis”, opgetekend door Bram Mosterdfiets, te Atlantis.*
+*Wetboek Legacy Roleplay is opgesteld uit naam van Beheer van Legacy Roleplay, bedoeld voor de gemeente en de stad “Legacy Roleplay”, opgetekend door Bram Mosterdfiets, te Legacy Roleplay.*

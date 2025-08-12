@@ -1,7 +1,7 @@
-site_name: Atlantis Roleplay
-site_description: 'Wet en regelgeving van Atlantis roleplay'
-site_author: 'Atlantis Roleplay'
-copyright: Copyright &copy; 2024-2025 Atlantis Roleplay
+site_name: Legacy Roleplay
+site_description: 'Wet en regelgeving van Legacy Roleplay'
+site_author: 'Legacy Roleplay'
+copyright: Copyright &copy; 2024-2025 Legacy Roleplay
 theme:
   name: material
   logo: assets/logo.png
