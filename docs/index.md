@@ -3,7 +3,7 @@
 Welkom op de pagina voor de Wet- en Regelgeving van Legacy Roleplay!
 In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op Legacy Roleplay.
 
-Naast de basisregels die beschreven staan in het #server-regels kanaal in de Discord, zijn er nog een aantal aanvullende 
+- Naast de basisregels die beschreven staan in het #server-regels kanaal in de Discord, zijn er nog een aantal aanvullende 
 regels. We gaan ervan uit dat je deze hebt doorgelezen. Bij het overtreden van de regels zul je aangesproken worden en 
 in het geval dit meerdere keren voorkomt, kun je een ban oplopen. 
 
