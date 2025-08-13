@@ -3,11 +3,9 @@
 Welkom op de pagina voor de Wet- en Regelgeving van Legacy Roleplay!
 In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op Legacy Roleplay.
 
-Zorg ervoor, dat je voor je deelneemt aan Legacy Roleplay, kennis hebt genomen van deze wetten.
-
-- De Algemene Plaatselijke Verordening bevat alle regels die niet te maken hebben met de Roleplay (dit zijn zogezegd de "server regels").
-- Het Wetboek Legacy Roleplay bevat alle wetten voor de burgers.
-- Alle overige documenten zijn specifiek bedoeld voor bepaalde zaken (zoals een belastingdocument waar je kan opzoeken hoeveel de autobelasting is).
+Naast de basisregels die beschreven staan in het #server-regels kanaal in de Discord, zijn er nog een aantal aanvullende 
+regels. We gaan ervan uit dat je deze hebt doorgelezen. Bij het overtreden van de regels zul je aangesproken worden en 
+in het geval dit meerdere keren voorkomt, kun je een ban oplopen. 
 
 ## Officiële discord servers
 
@@ -15,5 +13,6 @@ Legacy Roleplay heeft verschillende discord servers die zijn goed gekeurd door h
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Legacy Roleplay| Main discord server van Legacy Roleplay | [Invite](https://discord.gg/yaTGK7kqx6) |
-
+|Legacy Roleplay| Main discord server van Legacy Roleplay | [Invite](https://discord.gg/K3nmy3MQUj) |
+|Legacy Overheidsdiensten| Overheids discord server van Legacy Roleplay | [Invite](https://discord.gg/d2H2NpsY2j) |
+|Legacy Onderwereld| Onderwereld discord server van Legacy Roleplay | [Invite](https://discord.gg/zWaBN6fXey) |
