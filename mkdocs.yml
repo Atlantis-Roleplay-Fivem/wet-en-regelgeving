@@ -6,6 +6,7 @@ theme:
   name: material
   logo: assets/logo.png
   favicon: assets/favicon.ico
+  primary: green
 #   features:
 #     - navigation.tabs
   palette:
